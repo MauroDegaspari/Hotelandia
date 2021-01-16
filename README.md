@@ -5,7 +5,7 @@
 HOTELÂNDIA
 
 ## Objetivo:
-Para Estudos.
+Para Estudos
 Aplicação de cadastro de hoteis com localização do hotel e capacidade!
 
 
