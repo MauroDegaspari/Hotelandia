@@ -1,5 +1,5 @@
 # Hotelandia
-### Cadastro de hoteis.
+### Cadastro de hoteis
 
 ## Nome da aplicação:
 HOTELÂNDIA
